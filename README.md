@@ -1,7 +1,5 @@
 # mail-automation
 
-by **Owen Valentinus**
-
 A Python library for batch receiving/sending emails with various features, asynchronously
 
 ## Explanations regarding the project
